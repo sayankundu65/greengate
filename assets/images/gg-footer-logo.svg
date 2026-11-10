@@ -1,0 +1,15 @@
+<svg width="1172" height="265" viewBox="0 0 1172 265" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Green Gate Architectural Arch & Towers Emblem on Left in Champagne Gold (#DFD0A3) -->
+  <g transform="translate(14, 18)">
+    <!-- Outer Arch Gate -->
+    <path d="M10 210V86C10 38.5 48.5 0 96 0C143.5 0 182 38.5 182 86V210H156V86C156 52.8 129.2 26 96 26C62.8 26 36 52.8 36 86V210H10Z" fill="#DFD0A3"/>
+    <!-- Inner Architectural Towers -->
+    <rect x="54" y="78" width="22" height="132" fill="#DFD0A3"/>
+    <polygon points="85,44 111,28 111,210 85,210" fill="#EDEAE0"/>
+    <rect x="120" y="96" width="20" height="114" fill="#DFD0A3"/>
+    <!-- Base Line -->
+    <rect x="0" y="206" width="192" height="10" rx="2" fill="#DFD0A3"/>
+  </g>
+  <!-- Giant Stayli-style full-width cropped wordmark "GreenGate" -->
+  <text x="235" y="236" fill="#FFFFFF" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="182" font-weight="500" letter-spacing="-7">GreenGate</text>
+</svg>

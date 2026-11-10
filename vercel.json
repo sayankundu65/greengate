@@ -1,0 +1,27 @@
+{
+  "cleanUrls": false,
+  "redirects": [
+    { "source": "/project-palm-villas.html", "destination": "/villas.html", "permanent": true },
+    { "source": "/project-downtown-lofts.html", "destination": "/apartments.html", "permanent": true },
+    { "source": "/project-hills-townhouses.html", "destination": "/townhouses.html", "permanent": true },
+    { "source": "/general-clean", "destination": "/villas.html", "permanent": true },
+    { "source": "/copy-of-villas", "destination": "/townhouses.html", "permanent": true },
+    { "source": "/copy-of-townhouses", "destination": "/apartments.html", "permanent": true },
+    { "source": "/copy-of-projects", "destination": "/about.html", "permanent": true },
+    { "source": "/contact-8", "destination": "/careers.html", "permanent": true }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/(css|js)/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=2592000" }
+      ]
+    }
+  ]
+}

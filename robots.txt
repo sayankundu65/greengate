@@ -1,0 +1,23 @@
+# Green Gate Real Estate LLC — Official robots.txt
+# Website: https://www.greengaterealestatellc.com
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+Disallow: /api/
+Disallow: /data/
+Disallow: /404.html
+
+User-agent: Googlebot
+Allow: /
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+
+User-agent: Googlebot-Image
+Allow: /assets/images/
+Allow: /assets/stayli_cdn/
+
+Sitemap: https://www.greengaterealestatellc.com/sitemap.xml

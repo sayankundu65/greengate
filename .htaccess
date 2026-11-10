@@ -1,0 +1,31 @@
+# Apache / LiteSpeed .htaccess — 301 Redirects, Caching, Gzip & Security Headers
+RewriteEngine On
+
+# 1. Legacy Wix & Alias 301 Permanent Redirects (Zero Redirect Chains)
+Redirect 301 /project-palm-villas.html /villas.html
+Redirect 301 /project-downtown-lofts.html /apartments.html
+Redirect 301 /project-hills-townhouses.html /townhouses.html
+Redirect 301 /general-clean /villas.html
+Redirect 301 /copy-of-villas /townhouses.html
+Redirect 301 /copy-of-townhouses /apartments.html
+Redirect 301 /copy-of-projects /about.html
+Redirect 301 /contact-8 /careers.html
+
+# 2. Custom 404 Error Page
+ErrorDocument 404 /404.html
+
+# 3. Gzip / Deflate Compression for Sub-2s Load Time
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript application/json image/svg+xml
+</IfModule>
+
+# 4. Browser Caching for Core Web Vitals
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType video/mp4 "access plus 1 year"
+  ExpiresByType video/webm "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+</IfModule>

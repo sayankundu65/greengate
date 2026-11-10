@@ -1,0 +1,12 @@
+# Netlify / Cloudflare Pages 301 Redirects & Custom 404 Configuration
+/project-palm-villas.html        /villas.html                  301!
+/project-downtown-lofts.html     /apartments.html              301!
+/project-hills-townhouses.html   /townhouses.html              301!
+/general-clean                   /villas.html                  301!
+/copy-of-villas                  /townhouses.html              301!
+/copy-of-townhouses              /apartments.html              301!
+/copy-of-projects                /about.html                   301!
+/contact-8                       /careers.html                 301!
+/home                            /                             301!
+/index.php                       /                             301!
+/*                               /404.html                     404

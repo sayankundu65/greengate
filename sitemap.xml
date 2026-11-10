@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.greengaterealestatellc.com/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.greengaterealestatellc.com/assets/images/stayli/hero-main.webp</image:loc>
+      <image:title>Green Gate Real Estate LLC — Luxury Villas and Waterfront Residences in Dubai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/listings.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://www.greengaterealestatellc.com/assets/images/stayli/about-1.webp</image:loc>
+      <image:title>Dubai Luxury Property Portfolio — Villas, Penthouses, Townhouses &amp; Off-Plan Investments</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/villas.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://www.greengaterealestatellc.com/assets/images/stayli/prop-palm-villa.webp</image:loc>
+      <image:title>Palm Horizon Signature Villa — Palm Jumeirah Beachfront Villa in Dubai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/apartments.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://www.greengaterealestatellc.com/assets/images/stayli/prop-downtown-loft.webp</image:loc>
+      <image:title>Burj View Sky Residence — Downtown Dubai Luxury Sky Apartment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/townhouses.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://www.greengaterealestatellc.com/assets/images/stayli/prop-hills-townhouse.webp</image:loc>
+      <image:title>Emerald Park Corner Townhouse — Dubai Hills Estate Golf Course Townhouse</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/project-marina-suites.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.greengaterealestatellc.com/assets/images/stayli/prop-marina-penthouse.webp</image:loc>
+      <image:title>Marina Breeze Waterfront Penthouse — Dubai Marina Full-Floor Residence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/project-creek-sanctuary.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.greengaterealestatellc.com/assets/images/stayli/prop-creek-sanctuary.webp</image:loc>
+      <image:title>Creek Harbour Eco Sanctuary — Dubai Creek Harbour Waterfront Villa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/project-oasis-estates.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.greengaterealestatellc.com/assets/images/stayli/prop-oasis-mansion.webp</image:loc>
+      <image:title>The Oasis Lagoon Mansion — MBR City Crystal Lagoon Estate</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/about.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/services.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/careers.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.greengaterealestatellc.com/privacy-policy.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.50</priority>
+  </url>
+</urlset>
